@@ -12,3 +12,4 @@ hello,git,mastertest
 hello,git,branch modify
 hello,git, master test
 hello,git hot fix test0.00.0
+hello,lx test 
