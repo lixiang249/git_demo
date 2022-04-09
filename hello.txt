@@ -9,7 +9,6 @@ hello,git
 hello,git
 hello,git
 hello,git
-hello,git, add in branch_test branch
 hello,git
 hello,git, master test
 hello,git hot fix test
